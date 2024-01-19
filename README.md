@@ -22,4 +22,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 For any queries, suggestions, or discussions regarding the project.
-
+.
