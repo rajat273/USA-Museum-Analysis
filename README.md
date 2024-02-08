@@ -7,8 +7,8 @@ The "USA Museum Data" project is a comprehensive SQL-based analysis focusing on 
 The dataset used in this project comprises extensive information from several USA museums. It includes details like the artist's name, the price of the paintings, dimensions of the canvas, and the operational hours of the museums. This dataset is ideal for SQL querying to reveal patterns and trends in the art industry.
 
 ## Tools and Technologies
-- SQL Database (Specify the SQL database used, e.g., MySQL, PostgreSQL)
-- Data visualization tools (if any)
+- SQL Database ( MySQL)
+- Excel
 - Any other tools or libraries used
 
 ## Key Analysis Aspects
@@ -17,9 +17,10 @@ The dataset used in this project comprises extensive information from several US
 - **Canvas Size Comparisons**: Examining the canvas sizes used in different artworks and how they relate to the artists' era and style.
 - **Museum Operational Insights**: Exploring the operational hours of museums, understanding peak times, and correlating them with visitor preferences.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+## Support
 
-## Contact
-For any queries, suggestions, or discussions regarding the project.
+For support, please open an issue in this repository or reach out.
+
+## License
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 .
